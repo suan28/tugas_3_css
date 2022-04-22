@@ -1,0 +1,22 @@
+.paragraf_pertama {
+  background: orange;
+  border: 1px solid black;
+
+}
+
+.paragraf_kedua {
+  background: blue;
+  border: 1px solid black;
+}
+
+.paragraf_tiga {
+  font-family: serif;
+  font-size: 20px;
+  border: 1px solid black;
+}
+
+.paragraf_empat {
+  background: grey;
+  font-weight: bold;
+  border: 1px solid black;
+}
